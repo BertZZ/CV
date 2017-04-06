@@ -52,3 +52,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2 B
 - 2 C
 
+## Interests
+I play all kinds of Games. Strategy games, board games, Magic The Gathering all of which help to improve my critical thinking and decision making skills.
