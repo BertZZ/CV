@@ -1,10 +1,10 @@
-## Your Name
+## Bertie Wooles
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+My name is Bertie Wooles. I am 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to become a software developer.
 
 ## Skills
 
-#### This Skill
+#### Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 to July 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -38,7 +38,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Saffron Walden County High School (2009 - 2001)
+##### 3 A levels
+A - Biology 
+B- Chemistry
+B - Maths 
 
 ## Experience
 
