@@ -32,21 +32,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Univerity of Leeds (2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Completed the First year of a Degree in Chemistry.
 
-#### Saffron Walden County High School (2009 - 2001)
+#### Saffron Walden County High School (2009 - 2011)
 ##### 3 A levels
-A - Biology 
-B- Chemistry
-B - Maths 
+- Biology A 
+- Chemistry B
+- Maths B
+##### 2 AS levels
+- History B
+- Physics B
 
-## Experience
+#### Newport Free Grammar School 
+12 GCSE's 
+- 2 A* 
+- 6 A
+- 2 B
+- 2 C
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
