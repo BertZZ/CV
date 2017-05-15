@@ -2,25 +2,6 @@
 
 My name is Bertie Wooles. I am 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to become a software developer.
 
-## Skills
-
-#### Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (April 2017 to July 2017)
@@ -51,6 +32,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 6 A
 - 2 B
 - 2 C
+
+## Skills
+
+#### Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- Experience
+- Achievements
+- Evidence
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Interests
 I play all kinds of Games. Strategy games, board games, Magic The Gathering all of which help to improve my critical thinking and decision making skills.
