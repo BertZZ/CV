@@ -1,6 +1,6 @@
 ## Bertie Wooles
 
-My name is Bertie Wooles. I am a full stack developer, prefering to work with back end and logic over front end HTML and CSS styling. I am 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to become a software developer.
+My name is Bertie Wooles. I am a full stack developer, prefering to work with back end and logic I am only 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to become a software developer.
 ## Education
 
 #### Makers Academy (April 2017 to July 2017)
