@@ -38,20 +38,11 @@ I am only 24 and still trying to find my way in the world. That is why I joined 
 
 #### Teamwork?? 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-- I have been working in teams for the last 5-6 weeks whilst at Makers Academy. During (LINK MAKERS BNB FORK) week at Makers academy my team said that I was able to keep them on track with sticking to XP values. Also during my final project (LINK TO FINAL PROJECT) we communicated very 
-- Experience
-- Achievements
-- Evidence
+- I have been working in teams for the last 5-6 weeks whilst at Makers Academy. During week one of the team projects at Makers academy my team said that I was able to keep them on track by advocating sticking to the XP values we are taught in the course. Also during my final project we communicated very effectivly to build a clone of PacMan in 2 weeks with no frameworks or Libraries
 
-#### Critical Thinking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Quick to Learn new Skills
+Before coming to Makers Academy I had no coding skills at all. Now in just 12 weeks I have developed a good understanding of both Ruby and Javascript and the technologies surrounding them such as Rails and Node.js. Whilst Ruby and Javascript are the 2 languages taught at Makers, the course also teaches you how to learn as well as just how to code. Because of this I am confident that I could pick up any language required to solve the problem at hand in a relitivly short space of time
 
 
 ## Interests
