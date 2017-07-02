@@ -38,7 +38,7 @@ I am only 24 and still trying to find my way in the world. That is why I joined 
 
 #### Teamwork
 
-- I have been working in teams for the last 5-6 weeks whilst at Makers Academy. During week one of the team projects at Makers academy my team said that I was able to keep them on track by advocating sticking to the XP values we are taught in the course. Also during my final project we communicated very effectivly to build a clone of PacMan in 2 weeks with no frameworks or Libraries
+I have been working in teams for the last 5-6 weeks whilst at Makers Academy. During week one of the team projects at Makers academy my team said that I was able to keep them on track by advocating sticking to the XP values we are taught in the course. Also during my final project we communicated very effectivly to build a clone of PacMan in 2 weeks with no frameworks or Libraries
 
 
 #### Quick to Learn new Skills
@@ -46,4 +46,4 @@ Before coming to Makers Academy I had no coding skills at all. Now in just 12 we
 
 
 ## Interests
-I play all kinds of Games. Strategy games, board games and card games like Magic The Gathering, all of which help to improve my critical thinking and decision making skills, all of which is helpful when trying to solve code problems. 
+I play all kinds of Games. Strategy games, board games and card games like Magic The Gathering, all of which help to improve my critical thinking and decision making skills, all of which is helpful when trying to solve code problems. I enjoy watching Rugby and playing Table Tennis.
