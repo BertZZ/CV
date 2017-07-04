@@ -1,7 +1,7 @@
 ## Bertie Wooles
 
 My name is Bertie Wooles. I am a full stack developer, prefering to work with back end and logic.
-I am only 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to start my journey towards becoming a software developer.
+I am only 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to start my journey towards becoming a software developer. In just 12 weeks I have learnt about building Web Apps in Ruby, such as my attempt to make a basic [Twitter Clone](https://github.com/BertZZ/chitter-challenge) and writting Javascript code, which I used to recreate PacMan for my final project, [Project BYO-Man](https://github.com/BertZZ/project_byoman)
 
 ## Education
 
