@@ -11,7 +11,14 @@ I have been working in teams for the last 5-6 weeks whilst at Makers Academy. Du
 
 
 #### Quick to Learn new Skills
-Before coming to Makers Academy I had no coding skills at all. Now in just 12 weeks I have developed a good understanding of both Ruby and Javascript and the technologies surrounding them such as Rails and Node.js. Whilst Ruby and Javascript are the 2 languages taught at Makers, the course also teaches you how to learn as well as just how to code. Because of this I am confident that I could pick up any language required to solve the problem at hand in a relitivly short space of time
+Before coming to Makers Academy I had no coding skills at all. Now in just 12 weeks I have developed a good understanding of both Ruby and Javascript and the technologies surrounding them such as Rails and Node.js. Whilst Ruby and Javascript are the 2 languages taught at Makers, the course also teaches you how to learn as well as just how to code. Because of this I am confident that I could pick up any language required to solve the problem at hand in a short space of time
+
+## Projects 
+
+| Project name  | Description | 
+| ------------- | ------------- |
+| [Battle](https://github.com/BertZZ/Battle)  | Week 3: A simple Sinatra Web App |
+| Content Cell  | Content Cell  |
 
 ## Education
 
