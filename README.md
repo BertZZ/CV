@@ -18,7 +18,7 @@ Before coming to Makers Academy I had no coding skills at all. Now in just 12 we
 | Project name  | Description | 
 | ------------- | ------------- |
 | [Battle](https://github.com/BertZZ/Battle)  | Week 3: A simple Sinatra Web App |
-| Content Cell  | Content Cell  |
+| [Chitter Challenge](https://github.com/BertZZ/chitter-challenge)| Week 4 challenge: A Twitter Clone Sinatra app, backed up by a PSQL database  |
 
 ## Education
 
