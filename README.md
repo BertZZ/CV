@@ -15,12 +15,18 @@ Before coming to Makers Academy I had no coding skills at all. Now in just 12 we
 
 ## Projects 
 
+Below are some of the projects I worked on whilst at Makers Academy
+
 | Project name  | Description | 
 | ------------- | ------------- |
 | [Battle](https://github.com/BertZZ/Battle)  | Week 3: A simple Sinatra Web App |
 | [Chitter Challenge](https://github.com/BertZZ/chitter-challenge)| Week 4 challenge: A Twitter Clone Sinatra app, backed up by a PSQL database  |
 |[Thermostat](https://github.com/BertZZ/Thermostat)|Week 5 Introduction to Javascript |
 |[Makers BnB](https://github.com/BertZZ/makers_bnb)|Week 6 Air BNB Clone|
+|[Acebook](https://github.com/BertZZ/acebook-april2017)| Week 8 Whole Chort Rails App|
+|[Poker Hand Generator](https://github.com/BertZZ/OnlinePokerProject)| Week 9 Poker Hand Generator|
+|[Ex's and Oh's](https://github.com/BertZZ/Ex-s-Oh-s)|Week 10 Tech Test Practice|
+|[Project BYO-Man](https://github.com/BertZZ/project_byoman)| Final Project rebuilding Pacman from scratch|
 
 ## Education
 
