@@ -39,6 +39,11 @@ Below are some of the projects I worked on whilst at Makers Academy
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha, Chai
 
+#### City University London Short Courses (2014) 
+
+- C/C++ - Introduction to Programming Using C Part 1
+- Java 1: Object-Oriented Programming with Java Part 1  
+
 #### Univerity of Leeds (2012)
 
 - Completed the First year of a Degree in Chemistry.
