@@ -28,6 +28,30 @@ Below are some of the projects I worked on whilst at Makers Academy
 |[Ex's and Oh's](https://github.com/BertZZ/Ex-s-Oh-s)|Week 10 Tech Test Practice|
 |[Project BYO-Man](https://github.com/BertZZ/project_byoman)| Final Project rebuilding Pacman from scratch|
 
+## Tech Tests
+
+Below are some of the Tech Tests I have worked on since completing Makers Academy
+
+
+| Tech Test Company | Description | 
+| ----------| ------------|
+|[Kurt Geiger](https://github.com/BertZZ/KG-Test)| First ever PHP code, Tech test for Kurt Geiger|
+|[Vzaar](https://github.com/BertZZ/Vzaar-TT)|Rails form written for Vzaar|
+|[UK Cloud](https://github.com/BertZZ/UkCloud-TT)|Password generator for UK Cloud|
+|[busuu](https://github.com/BertZZ/busuu_Tech_Test)|Task was to make provided tests pass for Busuu|
+|[Redgate](https://github.com/BertZZ/Redgate-TT)|Quickly written CLI survey for Redgate|
+|[MVF](https://github.com/BertZZ/MVF-TT)| REST API for MVF|
+|[Flyt](https://github.com/BertZZ/Flyt_TT)| Fullstack Javascript app for Flyt|
+
+## Other Projects 
+
+These projects are all very much a work in progress and I work on them from time to time. 
+
+| Project name  | Description | 
+| ------------- | ------------- |
+|[Lilybot](https://github.com/BertZZ/LilyBot)| Twitch chat bot with basic command functionality. An exercise in working with API's and IRC|
+|[Dice](https://github.com/BertZZ/Dice)|Very much a WIP, the aim of this app is to make it easier to roll combinations of dice in games such as DnD|
+
 ## Education
 
 #### Makers Academy (April 2017 to July 2017)
