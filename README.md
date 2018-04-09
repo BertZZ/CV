@@ -51,6 +51,8 @@ These projects are all very much a work in progress and I work on them from time
 | ------------- | ------------- |
 |[Lilybot](https://github.com/BertZZ/LilyBot)| Twitch chat bot with basic command functionality. An exercise in working with API's and IRC|
 |[Dice](https://github.com/BertZZ/Dice)|Very much a WIP, the aim of this app is to make it easier to roll combinations of dice in games such as DnD|
+|[Makers Glassdoor](https://github.com/BertZZ/makersglassdoor)|Group project. An attempt to make Glassdoor for places Makers Alumni Work. My first attempt at React|
+|[Comparative App](https://github.com/makersacademy/comparative-judgement-api)|Large group project. App that compares two things. Specifically I worked on Dockerising the app|
 
 ## Education
 
