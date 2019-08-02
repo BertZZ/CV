@@ -3,6 +3,12 @@
 I am a full stack developer, prefering to work with back end and logic.
 I am only 24 and still trying to find my way in the world. That is why I joined Makers Academy in April 2017 to start my journey towards becoming a software developer. In just 12 weeks I have learnt about building Web Apps in Ruby, such as my attempt to make a basic [Twitter Clone](https://github.com/BertZZ/chitter-challenge), and writting Javascript code which I used to recreate PacMan for my final project, [Project BYO-Man](https://github.com/BertZZ/project_byoman)
 
+## Previous Experience
+
+| Company  | Description | Description | 
+| ------------- | ------------- | ------------- |
+|Reel.Tech Gaming (July 2018- August 2019)|Junior Developer|Junior Rails developer maintaining and building websites and microservices in Ruby. Gained experience using technologies such as Docker, Kafka, Sidekiq and Redis. As well as database technologies such as Postgress. |
+
 ## Skills
 
 #### Teamwork
