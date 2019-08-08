@@ -7,7 +7,7 @@ I joined Makers Academy in April 2017 to start my journey towards becoming a sof
 
 | Company  | Description | Description | 
 | ------------- | ------------- | ------------- |
-|Reel.Tech Gaming (July 2018- August 2019)|Junior Developer|Junior Rails developer maintaining and building websites and microservices in Ruby. Gained experience using technologies such as Docker, Kafka, Sidekiq and Redis. As well as database technologies such as Postgress. |
+|Reel.Tech Gaming (July 2018- August 2019)|Junior Developer|Junior Rails developer maintaining and building websites and microservices in Ruby. Gained experience using technologies such as Docker, Kafka, Sidekiq and Redis. In addition to some experience with front end Javascript frameworks Ember.js and Vue, as well as database technologies such as Postgress. |
 
 ## Skills
 
