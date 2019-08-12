@@ -1,13 +1,13 @@
 ## Bertie Wooles
 
-I am a Junior full stack Ruby developer, prefering to work with back end code.
-I joined Makers Academy in April 2017 to start my journey towards becoming a software developer. I learnt about building Web Apps in Ruby, such as my attempt to make a basic [Twitter Clone](https://github.com/BertZZ/chitter-challenge), and writting Javascript code which I used to recreate PacMan for my final project, [Project BYO-Man](https://github.com/BertZZ/project_byoman)
+I am a full-stack Ruby developer, prefering to work with back end code.
+I joined Makers Academy in April 2017 to start my journey towards becoming a software developer. I learnt about building Web Apps in Ruby, such as my attempt to make a basic [Twitter Clone](https://github.com/BertZZ/chitter-challenge), and writting Javascript and Node, which was used to recreate PacMan for my final project, [Project BYO-Man](https://github.com/BertZZ/project_byoman)
 
 ## Previous Employment Experience
 
 | Company  | Description | Description | 
 | ------------- | ------------- | ------------- |
-|Reel.Tech Gaming (July 2018- August 2019)|Junior Developer|Junior Rails developer maintaining and building websites and microservices in Ruby. Gained experience using technologies such as Docker, Kafka, Sidekiq and Redis. In addition to some experience with front end Javascript frameworks Ember.js and Vue, as well as database technologies such as Postgress. |
+|Reel.Tech Gaming (June 2018- August 2019)|Junior Developer|Junior Rails developer maintaining and building websites and microservices in Ruby. Gained experience using technologies such as Docker, Kafka, Sidekiq and Redis. In addition to some experience with front end Javascript frameworks like Ember.js and Vue, as well as database technologies such as Postgress. |
 
 ## Skills
 
@@ -59,6 +59,7 @@ These projects are all very much a work in progress and I work on them from time
 |[Dice](https://github.com/BertZZ/Dice)|Very much a WIP, the aim of this app is to make it easier to roll combinations of dice in games such as DnD|
 |[Makers Glassdoor](https://github.com/BertZZ/makersglassdoor)|Group project. An attempt to make Glassdoor for places Makers Alumni Work. My first attempt at React|
 |[Comparative App](https://github.com/makersacademy/comparative-judgement-api)|Large group project. App that compares two things. Specifically I worked on Dockerising the app|
+|[Tumblr Clone]
 
 ## Education
 
